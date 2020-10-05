@@ -17,9 +17,9 @@ import org.eclipse.xtext.validation.Check;
  */
 @SuppressWarnings("all")
 public class HlvlValidator extends AbstractHlvlValidator {
-  public final static String WRONG_TYPE = "org.example.expressions.WrongType";
+  public static final String WRONG_TYPE = "org.example.expressions.WrongType";
   
-  private final static HlvlPackage packageInstance = HlvlPackage.eINSTANCE;
+  private static final HlvlPackage packageInstance = HlvlPackage.eINSTANCE;
   
   /**
    * Method for checking that non boolean domains are correctly declarated

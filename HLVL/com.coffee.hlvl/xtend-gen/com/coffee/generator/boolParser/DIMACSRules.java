@@ -24,7 +24,8 @@ public class DIMACSRules extends TransformationRules {
   /**
    * Strings in the Textual DIMACS format
    */
-  private final static String HEADER = new Function0<String>() {
+  private static final String HEADER = new Function0<String>() {
+    @Override
     public String apply() {
       StringConcatenation _builder = new StringConcatenation();
       _builder.append("c");
