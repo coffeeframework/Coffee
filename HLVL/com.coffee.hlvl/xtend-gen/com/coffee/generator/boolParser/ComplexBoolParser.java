@@ -3,7 +3,6 @@ package com.coffee.generator.boolParser;
 import com.coffee.generator.AbstractHLVLParser;
 import com.coffee.generator.Dialect;
 import com.coffee.generator.TransformationRules;
-import com.coffee.generator.boolParser.ComplexBooleanRules;
 import com.coffee.hlvl.Common;
 import com.coffee.hlvl.ComplexImplies;
 import com.coffee.hlvl.ComplexMutex;

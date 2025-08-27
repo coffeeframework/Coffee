@@ -1,9 +1,6 @@
 package com.coffee.generator.expressionsParser;
 
 import com.coffee.generator.Dialect;
-import com.coffee.generator.expressionsParser.BooleanExpressionsRules;
-import com.coffee.generator.expressionsParser.IBooleanExpressionsRules;
-import com.coffee.generator.expressionsParser.IExpressionsParser;
 import com.coffee.hlvl.And;
 import com.coffee.hlvl.BoolConstant;
 import com.coffee.hlvl.Equality;

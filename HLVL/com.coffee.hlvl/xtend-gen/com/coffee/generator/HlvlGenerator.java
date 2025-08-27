@@ -3,9 +3,6 @@
  */
 package com.coffee.generator;
 
-import com.coffee.generator.Dialect;
-import com.coffee.generator.IHLVLParser;
-import com.coffee.generator.ParserFactory;
 import com.coffee.hlvl.Decomposition;
 import com.coffee.hlvl.ElmDeclaration;
 import com.coffee.hlvl.Group;

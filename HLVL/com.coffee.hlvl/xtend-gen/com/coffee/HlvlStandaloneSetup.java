@@ -3,8 +3,6 @@
  */
 package com.coffee;
 
-import com.coffee.HlvlStandaloneSetupGenerated;
-
 /**
  * Initialization support for running Xtext languages without Equinox extension registry.
  */

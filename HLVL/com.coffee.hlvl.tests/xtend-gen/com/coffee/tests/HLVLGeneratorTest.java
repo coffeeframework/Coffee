@@ -8,7 +8,6 @@ import com.coffee.generator.HlvlGenerator;
 import com.coffee.generator.IHLVLParser;
 import com.coffee.generator.ParserFactory;
 import com.coffee.hlvl.Model;
-import com.coffee.tests.HlvlInjectorProvider;
 import com.google.inject.Inject;
 import org.eclipse.emf.common.util.EList;
 import org.eclipse.emf.ecore.resource.Resource;

@@ -3,7 +3,6 @@ package com.coffee.generator.boolParser;
 import com.coffee.generator.AbstractHLVLParser;
 import com.coffee.generator.Dialect;
 import com.coffee.generator.TransformationRules;
-import com.coffee.generator.boolParser.BasicBooleanRules;
 import org.eclipse.xtend2.lib.StringConcatenation;
 
 @SuppressWarnings("all")

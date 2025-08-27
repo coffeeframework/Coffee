@@ -2,7 +2,6 @@ package com.coffee.generator.integerParser;
 
 import com.coffee.generator.AbstractHLVLParser;
 import com.coffee.generator.Dialect;
-import com.coffee.generator.integerParser.BasicIntegerRules;
 
 @SuppressWarnings("all")
 public class BasicIntegerParser extends AbstractHLVLParser {

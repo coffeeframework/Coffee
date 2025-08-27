@@ -2,7 +2,6 @@ package com.coffee.generator.boolParser;
 
 import com.coffee.generator.ComplexTransformationRules;
 import com.coffee.generator.Dialect;
-import com.coffee.generator.boolParser.BasicBooleanRules;
 import com.coffee.generator.commons.IMiniZincConstants;
 import com.coffee.generator.expressionsParser.BooleanExpressionsParser;
 import com.coffee.hlvl.ComplexImplies;

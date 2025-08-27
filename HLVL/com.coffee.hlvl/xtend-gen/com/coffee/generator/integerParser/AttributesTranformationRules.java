@@ -1,8 +1,6 @@
 package com.coffee.generator.integerParser;
 
 import com.coffee.generator.Dialect;
-import com.coffee.generator.integerParser.BasicIntegerRules;
-import com.coffee.generator.integerParser.IAttributesRules;
 import com.coffee.hlvl.ElmDeclaration;
 
 @SuppressWarnings("all")

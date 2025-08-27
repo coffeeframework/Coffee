@@ -3,7 +3,6 @@
  */
 package com.coffee.ui;
 
-import com.coffee.ui.AbstractHlvlUiModule;
 import org.eclipse.ui.plugin.AbstractUIPlugin;
 import org.eclipse.xtend.lib.annotations.FinalFieldsConstructor;
 

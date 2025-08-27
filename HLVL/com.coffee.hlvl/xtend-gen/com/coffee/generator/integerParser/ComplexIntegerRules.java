@@ -3,7 +3,6 @@ package com.coffee.generator.integerParser;
 import com.coffee.generator.ComplexTransformationRules;
 import com.coffee.generator.Dialect;
 import com.coffee.generator.commons.IMiniZincConstants;
-import com.coffee.generator.integerParser.BasicIntegerRules;
 import com.coffee.hlvl.ComplexImplies;
 import com.coffee.hlvl.ComplexMutex;
 import com.coffee.hlvl.ElmDeclaration;

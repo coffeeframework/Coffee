@@ -2,8 +2,6 @@ package com.coffee.generator.integerParser;
 
 import com.coffee.generator.Dialect;
 import com.coffee.generator.TransformationRules;
-import com.coffee.generator.integerParser.ComplexIntegerParser;
-import com.coffee.generator.integerParser.ComplexIntegerRules;
 import com.coffee.hlvl.ConstantDecl;
 import com.coffee.hlvl.Declaration;
 import com.coffee.hlvl.ElmDeclaration;

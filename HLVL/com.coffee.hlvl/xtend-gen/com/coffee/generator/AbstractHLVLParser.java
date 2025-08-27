@@ -1,8 +1,5 @@
 package com.coffee.generator;
 
-import com.coffee.generator.Dialect;
-import com.coffee.generator.IHLVLParser;
-import com.coffee.generator.TransformationRules;
 import com.coffee.hlvl.Common;
 import com.coffee.hlvl.ConstantDecl;
 import com.coffee.hlvl.Constraint;

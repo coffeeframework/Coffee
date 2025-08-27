@@ -6,7 +6,6 @@ package com.coffee.validation;
 import com.coffee.hlvl.Declaration;
 import com.coffee.hlvl.ElmDeclaration;
 import com.coffee.hlvl.HlvlPackage;
-import com.coffee.validation.AbstractHlvlValidator;
 import com.google.common.base.Objects;
 import org.eclipse.xtext.validation.Check;
 

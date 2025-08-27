@@ -1,9 +1,6 @@
 package com.coffee.generator.expressionsParser;
 
 import com.coffee.generator.Dialect;
-import com.coffee.generator.expressionsParser.BooleanExpressionsParser;
-import com.coffee.generator.expressionsParser.IExpressionsParser;
-import com.coffee.generator.expressionsParser.IntegerExpressionsRules;
 import com.coffee.hlvl.And;
 import com.coffee.hlvl.BinaryFunction;
 import com.coffee.hlvl.BoolConstant;

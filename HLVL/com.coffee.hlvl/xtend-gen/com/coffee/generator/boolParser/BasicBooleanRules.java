@@ -2,7 +2,6 @@ package com.coffee.generator.boolParser;
 
 import com.coffee.generator.Dialect;
 import com.coffee.generator.TransformationRules;
-import com.coffee.generator.boolParser.DIMACSRules;
 import com.coffee.generator.commons.IMiniZincConstants;
 import com.coffee.generator.expressionsParser.BooleanExpressionsParser;
 import com.coffee.hlvl.BoolConstant;

@@ -5,7 +5,6 @@ package com.coffee.ide;
 
 import com.coffee.HlvlRuntimeModule;
 import com.coffee.HlvlStandaloneSetup;
-import com.coffee.ide.HlvlIdeModule;
 import com.google.inject.Guice;
 import com.google.inject.Injector;
 import org.eclipse.xtext.util.Modules2;

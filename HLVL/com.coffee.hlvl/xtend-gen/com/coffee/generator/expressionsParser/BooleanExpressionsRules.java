@@ -1,8 +1,6 @@
 package com.coffee.generator.expressionsParser;
 
 import com.coffee.generator.commons.IMiniZincConstants;
-import com.coffee.generator.expressionsParser.IBooleanExpressionsRules;
-import com.coffee.generator.expressionsParser.IExpressionsParser;
 import com.coffee.hlvl.And;
 import com.coffee.hlvl.Equality;
 import com.coffee.hlvl.Iff;

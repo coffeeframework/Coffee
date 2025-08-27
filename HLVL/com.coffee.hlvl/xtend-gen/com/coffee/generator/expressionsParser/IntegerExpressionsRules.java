@@ -2,9 +2,6 @@ package com.coffee.generator.expressionsParser;
 
 import com.coffee.generator.Dialect;
 import com.coffee.generator.commons.IMiniZincConstants;
-import com.coffee.generator.expressionsParser.BooleanExpressionsRules;
-import com.coffee.generator.expressionsParser.IExpressionsParser;
-import com.coffee.generator.expressionsParser.IIntegerExpressionsRules;
 import com.coffee.hlvl.BinaryFunction;
 import com.coffee.hlvl.Comparison;
 import com.coffee.hlvl.Equality;
